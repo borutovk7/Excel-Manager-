@@ -1,0 +1,14 @@
+# Credenciais e tokens
+.env
+.token_cache.json
+
+# Dependências
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema
+.DS_Store
+Thumbs.db
